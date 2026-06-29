@@ -1,17 +1,17 @@
 # MIDS-AI: Autonomous Maritime Intrusion Defense & Navigation System
 
-## Description
-A tactical command system using Gated Recurrent Units (GRU) in PyTorch to detect real-time GPS spoofing in maritime environments.
-
-## Key Features
-* Real-time kinematic anomaly detection for maritime safety.
-* Interactive GUI dashboard built for system monitoring.
-* Sequential neural network analysis for spoofing identification.
-
 ## Technical Stack
 * **Language:** Python
 * **AI Framework:** PyTorch
 * **Interface:** Tkinter GUI
 
-## Credits
-Developed by M. Arham Siddiqui as a 6th-semester Computer Engineering project at SSUET.
+## Overview
+A tactical command system developed to detect and mitigate real-time GPS spoofing in maritime environments. This project utilizes Gated Recurrent Units (GRU) for high-precision anomaly detection.
+
+## Features
+* **Real-time Anomaly Detection:** Identifies spoofing attempts immediately.
+* **Tactical Command UI:** Interactive dashboard for monitoring maritime telemetry.
+* **Performance Metrics:** Optimized for low-latency decision-making.
+
+## Commercial Inquiries
+The source code for this project is proprietary. If you are interested in licensing this software, viewing a full technical demonstration, or acquiring the codebase for academic/commercial purposes, please contact me directly at: arhamsiddqui2004@gmail.com.
